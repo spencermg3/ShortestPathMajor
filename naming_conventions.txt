@@ -1,0 +1,9 @@
+Naming Conventions
+
+Indentation - one tab 
+
+Folder - lowercase with an underscore between words (i.e. major_setups.java)
+
+Java files - lowercase with a dash between words (i.e create-major.java)
+
+Methods - camel case with the first word being lowercase (i.e mathMajor) 
